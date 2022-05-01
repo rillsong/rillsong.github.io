@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-29T11:46:46-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My personal blog - Qiqin Zhou</title><subtitle>Welcome to my personal blog! Feel free to learn more about my work experience, research projects and life.
+</subtitle><author><name>Qiqin Zhou</name></author><entry><title type="html">Resume</title><link href="http://localhost:4000/i-conquer-the-himalayas/" rel="alternate" type="text/html" title="Resume" /><published>2020-04-28T06:32:20-04:00</published><updated>2020-04-28T06:32:20-04:00</updated><id>http://localhost:4000/i-conquer-the-himalayas</id><content type="html" xml:base="http://localhost:4000/i-conquer-the-himalayas/"><![CDATA[<h2 id="education"><strong>EDUCATION</strong></h2>
+<p><strong>Cornell University</strong>, College of Engineering, Ithaca, NY<br />
+Master of Engineering in Financial Engineering, GPA: 3.9<br />
+<strong>Fudan University</strong>, College of Economics, Shanghai, China<br />
+Bachelor of Science in Economics</p>
+
+<h2 id="selected-coursework"><strong>SELECTED COURSEWORK</strong></h2>
+<p>Econometrics, Macroeconomics, Time Series Analysis, Fixed Income Securities and Derivatives, Financial
+Engineering (Derivative Pricing), Probability and Mathematical Statistics, Differential Equations, Stochastic Calculus,
+Numerical Algorithms, Algorithm and Data Structure, Machine Learning, Natural Language Processing</p>
+
+<h2 id="skills"><strong>SKILLS</strong></h2>
+<p>Technical: Python (Advanced in Pandas, NumPy, SciPy, Sklearn, NLTK, Pytorch), C++, SQL, R, MS Office
+Soft: Communication, team player</p>
+
+<h2 id="experience"><strong>EXPERIENCE</strong></h2>
+<p><strong>Quantitative Analyst</strong>, Enjoy Wealth Asset Management, Shanghai, China<br />
+• Extracted Alphas for Rebar Futures using Genetic Programming, performed timing strategies and yielded 1.41 Sharpe
+ratio and 12% max-drawdown in Python<br />
+• Constructed a user-friendly back-testing system using OOP and implemented large-scale factor mining with
+multiprocessing that saved up to 90% running time<br />
+• Created Alphas that captured over 70% major upward trends across four years and conducted parameter sensitivity test<br />
+• Developed systematic modules to automatically generate factors for commodity futures trading</p>
+
+<p><strong>Equity Research</strong>, Zhong Ou Asset Management, Shanghai, China<br />
+• Developed an industry bullish portfolio with 17.6% annual return based on 1000+ public funds’ quarterly report from
+2010 to 2020 using Python NLTK and Sklearn package<br />
+• Worked in collaboration with NLP team to performed industry Name Entity Recognition on quarterly report<br />
+• Prepared materials on industry rotation strategy for institutional clients every week</p>
+
+<p><strong>Investment Strategist</strong>, Shan Xi Securities, Shanghai, China<br />
+• Attained 46 factors based on Barra CNE6 report and developed style-neutral portfolio (CVXPY package) that achieved
+15.47% annual return in Python<br />
+• Acquired daily factor return of 3,737 Chinese A stocks using Weighted Linear Regression across 10 years and
+conducted single factor performance evaluation (T-test, factor portfolio) and factor attribution analysis</p>
+
+<h2 id="projects"><strong>Projects</strong></h2>
+<p><strong>Option Pricing in C++</strong>, Fudan University, Shanghai, China<br />
+• Implemented plain European and American equity options pricing and Greek calculation using OOP in C++<br />
+• Provided API for vanilla option pricing and conducted stress test on full range of option parameters<br />
+• Conducted Monte-Carlo stimulation for option pricing and computed the standard deviation and error</p>
+
+<p><strong>Sci-Tech Board Liquidity Risk</strong>, Guotai Jun’an Securities Asset Management, Shanghai, China<br />
+• Investigated liquidity spillover of Chinese Sci-Tech and main board stocks using Vector Autoregression model<br />
+• Acquired stationary illiquidity ratio using hourly price data and calibrated Vector Autoregression model (VAR(2))<br />
+• Revealed significant bidirectional liquidity spillover effect using Granger Causality and Impulse Response analysis</p>]]></content><author><name>Qiqin Zhou</name></author><category term="Resume" /><summary type="html"><![CDATA[You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.]]></summary></entry><entry><title type="html">MUSIC</title><link href="http://localhost:4000/snowboarding-and-my-life/" rel="alternate" type="text/html" title="MUSIC" /><published>2020-04-28T06:32:20-04:00</published><updated>2020-04-28T06:32:20-04:00</updated><id>http://localhost:4000/snowboarding-and-my-life</id><content type="html" xml:base="http://localhost:4000/snowboarding-and-my-life/"><![CDATA[<h2 id="shinee">SHINee</h2>
+<p>Hi, let’s be friend if you also enjoy SHINee’s music and performance!</p>
+
+<blockquote>
+
+  <p>Shinee debuted in May 2008 with their first EP, Replay, on SBS’ 
+Inkigayo with their single “Replay”. The group gained attention for starting a fashion 
+trend amongst students, which the media dubbed the “Shinee Trend”. In August 2008,
+the group released their first Korean studio album, The Shinee World, which won Newcomer Album of the Year at the 23rd Golden Disc Awards. Shinee further consolidated their popularity on the South Korean music scene with follow-up singles “Ring Ding Dong” and “Lucifer”. “Ring Ding Dong” charted on top of several Korean music charts and gained popularity all over Asia. “Lucifer” was nominated for the Best Dance Performance Award at the Mnet Asian Music Awards in 2010 for its outstanding choreography. In 2012 the group released Sherlock, which became the fifth most sold album of the year with over 180,000 copies sold. The group has also been included in the Forbes 
+list of Korea Power Celebrity multiple times, once in 2014 and again in 2016.</p>
+</blockquote>
+
+<h2 id="music-video-link">Music Video Link</h2>
+<blockquote>
+  <p><a href="https://www.youtube.com/watch?v=8kyG5tTZ1iE">Sherlock - SHINee</a><br />
+<a href="https://www.youtube.com/watch?v=UF53cptEE5k">View - SHINee</a><br />
+<a href="https://www.youtube.com/watch?v=roughtzsCDI">Ringdingdong - SHINee</a></p>
+</blockquote>]]></content><author><name>Qiqin Zhou</name></author><category term="MUSIC" /><summary type="html"><![CDATA[You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.]]></summary></entry><entry><title type="html">MISC</title><link href="http://localhost:4000/meeting-with-adventures/" rel="alternate" type="text/html" title="MISC" /><published>2020-04-28T06:32:20-04:00</published><updated>2020-04-28T06:32:20-04:00</updated><id>http://localhost:4000/meeting-with-adventures</id><content type="html" xml:base="http://localhost:4000/meeting-with-adventures/"><![CDATA[<h3 id="activitiesinterests--certificates">ACTIVITIES/INTERESTS &amp; CERTIFICATES</h3>
+<blockquote>
+
+  <p>Piano<br />
+Painting<br />
+Strategic game player<br />
+Designing and organizing fun parent-child sports meeting for secondary school<br />
+SHINee<br />
+Korean Girl Groups Pop Music</p>
+</blockquote>]]></content><author><name>Qiqin Zhou</name></author><category term="MISC" /><summary type="html"><![CDATA[You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.]]></summary></entry><entry><title type="html">Leadership</title><link href="http://localhost:4000/i-meet-the-sunset/" rel="alternate" type="text/html" title="Leadership" /><published>2020-04-28T06:32:20-04:00</published><updated>2020-04-28T06:32:20-04:00</updated><id>http://localhost:4000/i-meet-the-sunset</id><content type="html" xml:base="http://localhost:4000/i-meet-the-sunset/"><![CDATA[<p><strong>Team Leader</strong>, M&amp;A Case Competition, Fudan University, Shanghai<br />
+• Spearheaded six group meetings and facilitated communication among members and target company representatives<br />
+• Summarized and visualized company’s business and investment structure and conducted comparable evaluation</p>
+
+<p><strong>Data Driven Project</strong><br />
+One project I have completed is to detect fake reviews. 
+During the project, I performed textual data preprocessing, programmed N-gram language model and applied Naive Bayes and Logistic Regression. 
+One challenge I encountered was performing preprocessing on large sca le of text data for higher classification accuracy. To achieve the goal, I conducted extensive research in preprocessing methods such as deleting stop word, handling contraction or conducting stemming, and compared performance of each single method and their combinations. I also tuned parameters carefully for unknown-word handling and smoothing methods. As a result, I improved up to 15% prediction accuracy and was listed in top 10% in the competition.</p>
+
+<p><strong>Commnication</strong><br />
+One example that highlights my communication skill was when I participated in a mathematical modeling project.
+The goal of the project was to analyze a financial problem using mathematical equations (differential equations).
+During the project, I collaborated with team members from a variety of backgrounds, so I would use analogies to explain concepts. For example, I would make the concept “Utility” easier to understand by drawing analogies to “happiness” (Explained “futures” by giving examples). 
+I also created concise visualizations of the “utility function” using simple number intput so that I was able to “tell a story” in a straightforward way that everyone could understand.
+Our work was selected as an exemplary project, which validated my strength of storytelling.</p>]]></content><author><name>Qiqin Zhou</name></author><category term="Leadership" /><summary type="html"><![CDATA[You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.]]></summary></entry></feed>
