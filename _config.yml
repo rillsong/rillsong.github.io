@@ -14,13 +14,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Qiqin Zhou # add your name
 author-pic: photo.jpg
 about-author: My name is Qiqin Zhou. I’m a student of Master of Financial Engineering at Cornell.
-
+  I aspire to work as a quantitative researcher / trader, data analyst, machine learning / deep learning / NLP engineer
+  in leading financial and technology institutions in U.S. Get to learn more about me on the Blog!
 # Contact links
+
 email: qz247@cornell.edu # Add your Email address
 phone: 1 (607) 3792441# Add your Phone number
 website: # Add your website, do not add http://
 linkedin: linkedin.com/in/qiqin-z-5b6a701ba # Add your Linkedin handle
-github: qz247 # Add your Github handle
+github: rillsong # Add your Github handle
 twitter: '@rillsong' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
